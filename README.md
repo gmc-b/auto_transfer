@@ -61,7 +61,7 @@ Obs: Essa etapa pode ser evitada caso o local de click seja pré-definido. Para 
 ```bash
  8 ############################################################################################
  9 
-10 flag_escolha_local = True                   # True ou False
+10 flag_escolha_local = False                  # True ou False
 11
 12 ############################################################################################
 ```
