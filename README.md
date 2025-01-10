@@ -40,7 +40,7 @@ cd C:\Usuarios\SeuNome\Projetos
 ### Passo 2: Executar o Script
 Para executar o script, dentro da pasta específica, digite no terminal:
 ```bash
-python analise_biopac.py
+python automatic_transfer.py
 ```
 
 
